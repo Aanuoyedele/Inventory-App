@@ -1,3 +1,10 @@
+*{
+  background-color: rgb(255, 255, 255);
+}
+.Navbar{
+  color: white
+}
+
 .App {
   text-align: center;
 }
